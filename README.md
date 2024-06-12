@@ -72,6 +72,8 @@ Contributions are welcome! Please fork the repository and create a pull request 
 ### License
 This project is open-source and available under the MIT License.
 
+![Blog Screenshot](./assets/images/Screenshot%20(374).png)
+
 ## File Structure
 ```plaintext
 personal-blog/
