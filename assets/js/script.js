@@ -13,7 +13,7 @@
                 const blogPosts = JSON.parse(localStorage.getItem('blogPosts')) || [];
                 blogPosts.push({ username, title, content });
                 localStorage.setItem('blogPosts', JSON.stringify(blogPosts));
-                window.location.href = '/blog.html';
+                window.location.href = './blog.html';
             } else {
                 errorMessage.textContent = 'Please fill out all fields.';
             }
